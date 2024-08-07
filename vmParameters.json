@@ -1,0 +1,11 @@
+{
+  "adminUsername": {
+    "value": "azureuser"
+  },
+  "adminPassword": {
+    "value": "Password1234!"
+  },
+  "vmName": {
+    "value": "myVM"
+  }
+}
